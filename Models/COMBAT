@@ -1,0 +1,30 @@
+* Combat consists of 9 moves
+   -Stab // 1 move
+   -Slash from left to right (right to left) // 2 moves
+   -Strike from top to bottom (bottom to top) // 2 moves
+   -Swing from top left (right) to bottom right (left) (bottom left (right) to top right (left)) // 4 moves
+* Dodging
+   -Side step (
+      -4 directions 
+      -imagine jumping from one leg to the other 
+      -low stamina cost 
+      -can attack while side stepping
+   -Roll 
+      -4 directions
+      -rolling face facing forward (safety roll technique)
+      -cant attack while rolling
+      -uses moderate amount of stamina
+      -players model gets lower to the ground, allowing the possibility to dodge high swung side attacks
+   -Jump
+      -player must not be stunned (read *Fighting* below)
+      -distance depends on charge up (imagine bending your legs before jumping)
+      -uses a large amount of stamina on high charge and when jumping after being stunned
+      -charging takes longer the less stamina you have
+* Stamina bar
+   -The following depend on stamina
+      -Attack damage %
+      -Attack speed %
+      -Movement speed %
+      -Attack charge time +%
+      -Jump charge time +%
+      -Stun threshold

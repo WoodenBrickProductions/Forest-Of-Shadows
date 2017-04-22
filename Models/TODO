@@ -1,0 +1,47 @@
+Shield (5 types) + +
+Spear +
+Halberd
+Mace 
+Ball and chain
+Axe
+Double sided Axe
+More cleavers
+Rapier + 
+More Swords
+Armor
+Shuriken
+Kunai
+Knives
+Throughing knives
+More Lances
+Javelin 
+Hammer
+Whip
+Butchers knife +
+Scythe
+Gauntlet
+Sai blades
+Claws
+Hidden blade
+Naruto Big Shuriken
+
+
+-------------------------
+ABOUT THE MAP
+-------------------------
+
+*This is the first goal, it consists of
+   -A working combat system
+   -A working map(pathing, clipping)
+   -Boss AI
+   -A rock
+
+//See combat system requirements in COMBAT
+//See AI requirements in AI
+
+*The big box is the boss
+*The small box is the player
+*The rock looking thing is a rock
+*If you fall of the map you die
+*This is a place holder map, its shape will be similar, but its quality will get better (hopefully)
+
